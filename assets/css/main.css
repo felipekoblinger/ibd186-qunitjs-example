@@ -1,0 +1,11 @@
+body {
+    padding: 20px;
+}
+
+header > img {
+    margin-bottom: 20px;
+}
+
+.search-content { 
+    margin-bottom: 20px;
+}
